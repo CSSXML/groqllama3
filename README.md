@@ -7,7 +7,9 @@ pip install flask requests
 Use the Groq API to connect to the LLaMA 3 model.
 Create a Flask chatbot.
 Automatically read robot responses aloud.
-Install packages.
+
+
+Based on this program, we can develop an emotional support dialogue system tailored for older adults, featuring a user-friendly interface and the ability to record conversation history to enhance interactivity and quality of care.
 
 ## Author
 * **[cian-rong Chen/Joanna]** - [GitHub](https://github.com/CSSXML)
