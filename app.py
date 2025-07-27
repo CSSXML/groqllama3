@@ -4,7 +4,7 @@ import sqlite3
 from datetime import datetime
 
 app = Flask(__name__)
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "ur_api_key"
 
 # Initialize SQLite database
 def init_db():
