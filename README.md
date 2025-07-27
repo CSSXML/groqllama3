@@ -4,10 +4,9 @@
 安裝套件
 pip install flask requests
 
-Use the Groq API to connect to the LLaMA 3 model.
-Create a Flask chatbot.
-Automatically read robot responses aloud.
-Install packages.
+Use the Groq API to integrate the LLaMA 3 model and build a Flask chatbot that automatically reads aloud the bot's responses.
+Install the required packages with:pip install flask requests
+
 
 ## Author
 * **[cian-rong Chen/Joanna]** - [GitHub](https://github.com/CSSXML)
